@@ -111,7 +111,7 @@ const HowItWorksSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            How Samdog Works
+            How SamDoq Works
           </h2>
           <p className="max-w-2xl mx-auto text-gray-600 text-lg">
             Our streamlined process makes regulatory compliance straightforward and efficient.
@@ -135,7 +135,7 @@ const HowItWorksSection = () => {
         <div className="mt-20 bg-white rounded-xl shadow-md overflow-hidden">
           <div className="p-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-              See Samdog in Action
+              See SamDoq in Action
             </h3>
             <p className="text-gray-600 mb-6">
               Watch how our AI-powered platform simplifies regulatory compliance for medical device manufacturers.

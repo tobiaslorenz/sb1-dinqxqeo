@@ -12,7 +12,7 @@ type Testimonial = {
 const TestimonialsSection = () => {
   const testimonials: Testimonial[] = [
     {
-      content: "Samdog has revolutionized how we handle regulatory documentation. What used to take weeks now takes days, with greater accuracy and fewer revisions.",
+      content: "SamDoq has revolutionized how we handle regulatory documentation. What used to take weeks now takes days, with greater accuracy and fewer revisions.",
       author: "Dr. Sarah Johnson",
       position: "Regulatory Affairs Director",
       company: "MedTech Innovations",
@@ -33,7 +33,7 @@ const TestimonialsSection = () => {
       rating: 5
     },
     {
-      content: "Our auditors were impressed by the completeness and organization of our documentation. Samdog has given us confidence in our compliance process.",
+      content: "Our auditors were impressed by the completeness and organization of our documentation. SamDoq has given us confidence in our compliance process.",
       author: "Robert Williams",
       position: "VP of Compliance",
       company: "Global Health Systems",

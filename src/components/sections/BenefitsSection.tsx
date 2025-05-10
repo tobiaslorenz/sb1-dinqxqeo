@@ -21,7 +21,7 @@ const BenefitsSection = () => {
             <div className="rounded-2xl overflow-hidden shadow-2xl">
               <img 
                 src="https://images.pexels.com/photos/3912956/pexels-photo-3912956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="Medical technology professional using Samdog" 
+                alt="Medical technology professional using SamDoq" 
                 className="w-full h-auto"
               />
             </div>
